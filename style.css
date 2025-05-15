@@ -6,8 +6,8 @@
 }
 @font-face{
     font-family: 'Gilroy';
-    src: url('../fonts/Gilroy-Light.otf') format("otf"),
-    url('../fonts/Gilroy-ExtraBold.otf') format("otf");
+    src: url('Gilroy-Light.otf') format("otf"),
+    url('Gilroy-ExtraBold.otf') format("otf");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -126,7 +126,7 @@ li:hover {
 
 }
 .main {
-    background-image: url(../img/fon0.png);
+    background-image: url(fon0.png);
     background-position: center;
     background-size: cover;
     height: 700px;
@@ -372,7 +372,7 @@ li:hover {
 
 
 .formm {
-    background-image: url(../img/fon2.png);
+    background-image: url(img/fon2.png);
     background-position: center;
     background-size: cover;
     width: 620px;
